@@ -1,0 +1,3 @@
+theme : white
+logo : assets/img/stanby.png
+theme-override : assets/css/stanby.css

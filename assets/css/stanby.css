@@ -1,0 +1,64 @@
+body {
+    background: #eeeeee;
+    background: -moz-radial-gradient(center, circle cover, #f7fbfc 0%, #eeeeee 100%);
+    background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, #f7fbfc), color-stop(100%, #eeeeee));
+    background: -webkit-radial-gradient(center, circle cover, #f7fbfc 0%, #eeee 100%);
+    background: -o-radial-gradient(center, circle cover, #f7fbfc 0%, #eeeeee 100%);
+    background: -ms-radial-gradient(center, circle cover, #f7fbfc 0%, #eeeeee 100%);
+    background: radial-gradient(center, circle cover, #f7fbfc 0%, #eeeeee 100%);
+    background-color: #f7fbfc;
+}
+
+.reveal {
+    font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif; 
+}
+
+.reveal ul {
+    list-style-type: circle;
+}
+
+.reveal li, .reveal p {
+    font-size: 28px;
+}
+
+.reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
+    color: #F46F50;
+}
+
+.reveal .text-highlight {
+    color: #F46F50;
+    font-weight: 700;  
+}
+
+.reveal section img {
+    border: 0;
+    background: none;
+    box-shadow: none;
+}
+
+.reveal div.left {
+    left:-8.33%;
+    text-align: left;
+    float: left;
+    width:45%;
+    z-index:-10;
+    font-size:75%;
+}
+
+.reveal div.left img {
+    width:100%;
+}
+
+.reveal div.right {
+    left:31.25%;
+    top: 75px;
+    float: right;
+    text-align: right;
+    z-index:-10;
+    width:55%;
+    font-size:75%;
+}
+
+.reveal .smallText { 
+    font-size:60%
+}
