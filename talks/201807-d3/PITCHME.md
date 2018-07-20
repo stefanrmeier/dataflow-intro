@@ -309,12 +309,6 @@ Note:
 - [The world beyond batch: Streaming 102 - 日本語](https://qiita.com/kimutansk/items/c6b7cccd976ff00cb1fd)
 
 ---
-### Survey
-https://goo.gl/forms/4uGeukZEPbBN3GBQ2
-
-![PIC](assets/img/survey.png)
-
----
 ### Disclaimer
 
 <span class="smallText">
